@@ -1,2 +1,11 @@
-# coursera-test
-test
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Hello Coursera</title>
+</head>
+<body>
+<h1>Hello Coursera!<h1>
+</body>
+</html>
